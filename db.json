@@ -4,7 +4,7 @@
             "id":1,
             "nome": "MTec-PI Desenvolvimento de Sistemas",
             "disciplinas": ["PAM-II", "Web-III", "BD"],
-            "carga-horaria": 3600,
+            "carga-horaria": 1600,
             "duracao": "6 semestres",
             "eixo-tecnologico": "Informação e Comunicação"
         },
@@ -12,15 +12,15 @@
             "id":2,
             "nome": "MTec-N Informática",
             "disciplinas": ["PAM-II", "Web-III", "BD"],
-            "carga-horaria": 3600,
+            "carga-horaria": 1600,
             "duracao": "6 semestres",
             "eixo-tecnologico": "Informação e Comunicação"
         },
-        {
+        {   
             "id":3,
             "nome": "MTec-N Informática para Internet",
             "disciplinas": ["PAM-II", "Web-III", "BD"],
-            "carga-horaria": 3600,
+            "carga-horaria": 1600,
             "duracao": "6 semestres",
             "eixo-tecnologico": "Informação e Comunicação"
         },
@@ -32,5 +32,11 @@
             "duracao": "3 semestres",
             "eixo-tecnologico": "Informação e Comunicação"
         }
+    ],
+    "professores": [
+        {"id": 1, "nome": "Alícia"},
+        {"id": 2, "nome": "Votto"},
+        {"id": 3, "nome": "Nathane"},
+        {"id": 4, "nome": "Daniel"}
     ]
 }
